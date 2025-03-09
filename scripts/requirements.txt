@@ -14,7 +14,7 @@ docutils<0.18
 mistune<2
 
 # NEeded for backward compat of Sphynx
-Jinja2<3.1
+Jinja2<3.1.6
 
 # Needed for the pybind docstrings
 pybind11_mkdoc @ git+https://github.com/pybind/pybind11_mkdoc@master
